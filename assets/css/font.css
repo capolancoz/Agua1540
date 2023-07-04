@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'AristaBold';
+    src: url('../fonts/Arista-Pro-Alternate-Bold-trial.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AristaLight';
+    src: url('../fonts/Arista-Pro-Alternate-Light-trial.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AristaFat';
+    src: url('../fonts/Arista-Pro-Alternate-Fat-trial.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HUM';
+    src: url('../fonts/HUM521B.TTF');
+    font-weight: normal;
+    font-style: normal;
+}
